@@ -1,4 +1,4 @@
-# Conda environment with environment.yml
+# Taylor r environment.yml
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taysirset/r_repo.git/HEAD)
 
 
