@@ -1,5 +1,5 @@
 # Taylor r environment.yml
-[![Binder](https://mybinder.org/badge_logo.svg)]https://mybinder.org/v2/gh/taysirset/r_repo/HEAD
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/taysirset/r_repo/HEAD)
 
 
 A Binder-compatible repo with an `environment.yml` file.
